@@ -40,4 +40,4 @@ The variables to be printed are separated from the format string with a comma. E
 .I _putchar.c
 
 .SH AUTHORS
-Pauline Ondiek and Paul Ogechi
+Pauline Ondiek and Peter Ogechi
