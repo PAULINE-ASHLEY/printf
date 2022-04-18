@@ -1,9 +1,9 @@
-Printf
+#Prinitf
 
-Description
+#Description
 We are supposed to write a printf function.
 
-Tasks
+#Tasks
 
 0.
 Writing a function that produces output according to a format.
